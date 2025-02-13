@@ -30,7 +30,7 @@
   max-height: 250px;
 }
 
-.row__posterlarge: hover {
+.row__posterlarge:hover {
   transform: scale(1.09);
   opacity: 1;
 }
